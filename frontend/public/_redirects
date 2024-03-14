@@ -1,0 +1,5 @@
+/api/* https://stockfinder-spring-api.onrender.com/api/:splat 200!
+/* /index.html 200
+
+
+
